@@ -4,10 +4,8 @@ change the file
 
 pycharm with the github intergration
 
+Add pycharm for github cooperation
+
+check in the website of github
 
 
-test 2
-
-
-
-test3
